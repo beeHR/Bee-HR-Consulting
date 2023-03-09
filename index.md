@@ -1,4 +1,4 @@
-- [Home](/)
+- [Home](/index.md)
 - [Services](/services.md)
 - [Contact](/contact.md)
 
