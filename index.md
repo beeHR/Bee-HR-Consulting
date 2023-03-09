@@ -2,12 +2,14 @@
   <link rel="stylesheet" href="/style.css">
 </head>
 
-- [Home](/index.md)
-- [About](/about.md)
-- [Services](/services.md)
-- [Portfolio](/portfolio.md)
-- [Blog](/blog.md)
-- [Contact](/contact.md)
+<nav>
+  <a href="/index.md">Home</a>
+  <a href="/about.md">About</a>
+  <a href="/services.md">Services</a>
+  <a href="/portfolio.md">Portfolio</a>
+  <a href="/blog.md">Blog</a>
+  <a href="/contact.md">Contact</a>
+</nav>
 
 # Welcome to our HR consulting website!
 
