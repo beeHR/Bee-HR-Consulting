@@ -1,5 +1,8 @@
 - [Home](/index.md)
+- [About](/about.md)
 - [Services](/services.md)
+- [Portfolio](/Portfolio.md)
+- [Blog](/Blog.md)
 - [Contact](/contact.md)
 
 # Welcome to our HR consulting website!
