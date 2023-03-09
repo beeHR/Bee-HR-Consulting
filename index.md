@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="/style.css">
+</head>
+
 - [Home](/index.md)
 - [About](/about.md)
 - [Services](/services.md)
