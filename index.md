@@ -1,3 +1,7 @@
+- [Home](/)
+- [Services](/services.md)
+- [Contact](/contact.md)
+
 # Welcome to our HR consulting website!
 
 We offer a wide range of HR consulting services to help technology companies succeed. Our services include:
