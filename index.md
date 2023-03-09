@@ -1,15 +1,7 @@
-<head>
-  <link rel="stylesheet" href="/style.css">
-</head>
-
-<nav>
-  <a href="/index.md">Home</a>
-  <a href="/about.md">About</a>
-  <a href="/services.md">Services</a>
-  <a href="/portfolio.md">Portfolio</a>
-  <a href="/blog.md">Blog</a>
-  <a href="/contact.md">Contact</a>
-</nav>
+---
+layout: default
+title: Home
+---
 
 # Welcome to our HR consulting website!
 
