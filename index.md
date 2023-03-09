@@ -1,15 +1,12 @@
 ---
 layout: default
-title: Home
+title: HR Consulting Services
 ---
 
-# Welcome to our HR consulting website!
+<section>
+  <h1>Welcome to HR Specialist Consulting</h1>
+  <p>We provide HR consulting services for small and medium-sized businesses.</p>
+  <p>Contact us today to learn more about how we can help your company!</p>
+</section>
 
-We offer a wide range of HR consulting services to help technology companies succeed. Our services include:
 
-- Recruitment and talent acquisition
-- Performance management
-- Employee engagement
-- HR policies and procedures
-
-Contact us today to learn more about how we can help your company!
